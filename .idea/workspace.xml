@@ -2,134 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b004a0-e626-4131-a6e6-507a9682e7a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/.idea/dictionaries/A513915.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/src/main/java/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__org_springframework_spring_aop_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__org_springframework_spring_beans_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__org_springframework_spring_context_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__org_springframework_spring_core_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__org_springframework_spring_expression_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__org_springframework_spring_web_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/rest/repositories/jpa/JpaMatchRepo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/src/main/java/com/mybatis/mapper/Mapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/controllers/MatchController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/Entities/MatchList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/rest/HateoasResources/MatchListResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/rest/HateoasResources/Assembler/MatchListResourceAsm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/Entities/MatchPrimaryKey.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/rest/repositories/MatchRepo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/rest/HateoasResources/MatchResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/rest/HateoasResources/Assembler/MatchResourceAsm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/rest/services/MatchService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/rest/services/Impl/MatchServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__com_zaxxer_HikariCP_2_3_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_javassist_javassist_3_19_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_springframework_spring_test_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_springframework_spring_tx_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/artifacts/Mybatis_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/artifacts/Mybatis_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/Entities/PlayerStats.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/controllers/PlayerStatsController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/rest/HateoasResources/PlayerStatsResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/rest/HateoasResources/Assembler/PlayerStatsResourceAsm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/SpringGradle.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/src/main/java/com/mybatis/models/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/src/main/java/com/mybatis/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CricApp/src/main/webapp/WEB-INF/business-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Mybatis/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringGradle/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\.idea\libraries\Maven__org_hibernate_hibernate_annotations_3_5_6_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\.idea\libraries\Maven__org_hibernate_hibernate_commons_annotations_3_2_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\src\test\java\rest\TestServices.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\target\classes\rest\repositories\PlayerRepo.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\target\tomcat\logs\access_log.2015-05-04" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\target\tomcat\logs\access_log.2015-05-05" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\target\tomcat\logs\access_log.2015-05-06" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\target\tomcat\logs\access_log.2015-05-07" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\target\tomcat\logs\access_log.2015-05-08" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\a513915\IdeaProjects\CricApp\src\main\java\Entities\Player.java" afterPath="$PROJECT_DIR$/../CricApp/src/main/java/Entities/Match.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/controllers/IndexController.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/controllers/IndexController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/jpa/JpaTeamPlayerRepo.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/jpa/JpaTeamPlayerRepo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/jpa/JpaTeamRepo.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/jpa/JpaTeamRepo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/jpa/JpaYearRepo.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/jpa/JpaYearRepo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/Entities/Team.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/Entities/Team.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/controllers/TeamController.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/controllers/TeamController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/Entities/TeamList.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/Entities/TeamList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/TeamListResource.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/TeamListResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/Assembler/TeamListResourceAsm.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/Assembler/TeamListResourceAsm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/Entities/TeamPlayer.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/Entities/TeamPlayer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/controllers/TeamPlayerController.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/controllers/TeamPlayerController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/Entities/TeamPlayerList.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/Entities/TeamPlayerList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/TeamPlayerListResource.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/TeamPlayerListResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/Assembler/TeamPlayerListResourceAsm.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/Assembler/TeamPlayerListResourceAsm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/TeamPlayerRepo.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/TeamPlayerRepo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/TeamPlayerResource.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/TeamPlayerResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/Assembler/TeamPlayerResourceAsm.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/Assembler/TeamPlayerResourceAsm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/TeamPlayerService.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/TeamPlayerService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/Impl/TeamPlayerServiceImpl.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/Impl/TeamPlayerServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/TeamRepo.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/TeamRepo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/TeamResource.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/TeamResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/Assembler/TeamResourceAsm.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/Assembler/TeamResourceAsm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/TeamService.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/TeamService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/Impl/TeamServiceImpl.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/Impl/TeamServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/Entities/Year.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/Entities/Year.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/controllers/YearController.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/controllers/YearController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/YearRepo.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/repositories/YearRepo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/YearResource.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/YearResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/Assembler/YearResourceAsm.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/HateoasResources/Assembler/YearResourceAsm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/YearService.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/YearService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/Impl/YearServiceImpl.class" afterPath="$PROJECT_DIR$/../CricApp/target/classes/rest/services/Impl/YearServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/CricApp.iml" afterPath="$PROJECT_DIR$/../CricApp/CricApp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/.idea/artifacts/CricApp_war.xml" afterPath="$PROJECT_DIR$/../CricApp/.idea/artifacts/CricApp_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/.idea/artifacts/CricApp_war_exploded.xml" afterPath="$PROJECT_DIR$/../CricApp/.idea/artifacts/CricApp_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/build.config.js" afterPath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/build.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../CricApp/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/src/app/livescore/livescore.js" afterPath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/src/app/livescore/livescore.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/src/app/livescore/livescore.tpl.html" afterPath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/src/app/livescore/livescore.tpl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/.idea/misc.xml" afterPath="$PROJECT_DIR$/../CricApp/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/pom.xml" afterPath="$PROJECT_DIR$/../CricApp/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/src/app/schedule/schedule.js" afterPath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/src/app/schedule/schedule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/src/app/schedule/schedule.tpl.html" afterPath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/src/app/schedule/schedule.tpl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/src/app/team/team.tpl.html" afterPath="$PROJECT_DIR$/../CricApp/src/main/webapp/resources/src/app/team/team.tpl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../CricApp/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CricApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CricApp/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myCassandra.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -143,7 +18,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -158,66 +33,7 @@
     <favorites_list name="myCassandra" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controller/SampleController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dao/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CassandraConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/config/CassandraConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hello/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -228,7 +44,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -312,9 +128,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -347,52 +160,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myCassandra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myCassandra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myCassandra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myCassandra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,6 +179,11 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
     <configuration default="false" name="SampleController" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -746,24 +527,34 @@
       <option name="number" value="Default" />
       <updated>1433881140134</updated>
       <workItem from="1433881146881" duration="24743000" />
-      <workItem from="1434383411273" duration="213000" />
+      <workItem from="1434383411273" duration="633000" />
+      <workItem from="1434384104225" duration="817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24956000" />
+    <option name="totallyTimeSpent" value="26193000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1364" height="726" extended-state="1" />
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.4969325" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.47469324" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.52530676" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35199386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -807,6 +598,54 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/config/CassandraConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding />
         </state>
@@ -817,7 +656,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -827,7 +666,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -837,7 +676,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -846,11 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -859,7 +693,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -953,7 +787,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -962,11 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8201058">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -975,7 +804,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -985,17 +814,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/SampleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1008,5 +827,118 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>myCassandra</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
